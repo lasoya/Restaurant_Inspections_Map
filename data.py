@@ -87,4 +87,3 @@ data_noncritical_mean['INSPECTION YEAR'] = data_noncritical_mean['INSPECTION YEA
 # save dataframes to csv files
 # data_critical_mean.to_csv('./data/NYC_Restaurant_Inspections_Data_Critical.csv')
 # data_noncritical_mean.to_csv('./data/NYC_Restaurant_Inspections_Data_Not_Critical.csv')
-
