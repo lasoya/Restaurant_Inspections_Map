@@ -23,11 +23,11 @@ Folium was the visualization library used to map the coordinates.
 Here is a graph of the individual restaurants plotted on the map:
 
 <p align=center>
-    <img src='./images/inspections_map_individual.html' title='Map of Restaurants with Critical Violations in 2019'>
+    ![alt text]('./images/inspections_map_individual.html' 'Map of Restaurants with Critical Violations in 2019')
 </p>
 
 Here is an image of the restuarants clustered plotted on the map. As the map is zoomed in or out, the clusters will separate out into individual points or group up to larger clusters respectively.
 
 <p align=center>
-    <img src='./images/inspections_map_clustered.html' title='Map of Restaurants with Critical Violations in 2019 - Clustered'>
+    ![alt text]('./images/inspections_map_clustered.html' 'Map of Restaurants with Critical Violations in 2019 - Clustered')
 </p>
