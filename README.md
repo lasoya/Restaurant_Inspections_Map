@@ -31,3 +31,18 @@ Here is an image of the restuarants clustered plotted on the map. As the map is 
 <p align=center>
     <img src='./images/inspections_map_clustered.png' title='Map of Restaurants with Critical Violations in 2019 - Clustered'>
 </p>
+
+
+# Takeaways
+
+Some key notes on geocoding after working on this project are:
+- Data cleaning is really important prior to geocoding. Any errors in the format or spelling of the addresses can prevent the geocoder from accurately recognizing the addresses leading to the inability to produce the geographical coordinates for the location. This is because geocoding involves comparing the address provided to a reference repository of addresses with coordinates.
+- Try out different geocoders. Different reference datasets means some may yield different results. Google V3 API, ArcGIS, TIGER from US Census seems to be the best.
+- Take into account accuracy vs. completeness - what are you trying to show? This is a cool article about the tradeoff between them: https://www.willistowerswatson.com/en/insights/2018/05/geocoding-the-underappreciated-science-of-catastrophe-modeling
+
+
+# Resources
+
+- GeoPy Documentation: https://geopy.readthedocs.io/
+- Geocoding in Python Tutorial: https://umar-yusuf.blogspot.com/2019/03/geocoding-and-reverse-geocoding-with.html
+- Folium Documentation: https://python-visualization.github.io/folium/
