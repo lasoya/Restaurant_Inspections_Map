@@ -43,6 +43,6 @@ Some key notes on geocoding after working on this project are:
 
 # Resources
 
-- GeoPy Documentation: https://geopy.readthedocs.io/
-- Geocoding in Python Tutorial: https://umar-yusuf.blogspot.com/2019/03/geocoding-and-reverse-geocoding-with.html
-- Folium Documentation: https://python-visualization.github.io/folium/
+- <b>GeoPy Documentation:</b> https://geopy.readthedocs.io/
+- <b>Geocoding in Python Tutorial:</b> https://umar-yusuf.blogspot.com/2019/03/geocoding-and-reverse-geocoding-with.html
+- <b>Folium Documentation:</b> https://python-visualization.github.io/folium/
