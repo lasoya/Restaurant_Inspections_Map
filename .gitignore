@@ -6,3 +6,6 @@
 
 # Ignore cache
 __pycache__
+
+# Ignore vscode
+.vscode
